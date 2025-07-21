@@ -48,3 +48,10 @@ auction_env.py
 main.py
 - setup llm configuration
 - start communication
+- NUM_PARTICIPANTS is set to 3. 
+
+## Notes
+To Run:
+- activate virtual environment
+- run python (or python3) main.py
+- Participants are set up as UserProxy Agents, so user input is needed. 
