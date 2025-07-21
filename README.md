@@ -25,8 +25,9 @@ Simple set up:
   2. pip install openai
 
 Virtual Environment: 
-  python -m venv .venv
-  source .venv/bin/activate
+1. Intialize: python -m venv .venv 
+2. Activate: source .venv/bin/activate
+3. Deactivate: deactivate
 
 ## Description
 
